@@ -1,2 +1,3 @@
 <h1 align="center"> Conversos de modenas con Java</h1>
-![Black Minimalist Corporate Professional Profile LinkedIn Banner](https://github.com/GerlynFP/ConversorDeMonedas/assets/87731796/f2525c5a-7ec6-4e2c-a056-efc144edb0ab)
+
+![Una Portada](https://github.com/GerlynFP/ConversorDeMonedas/assets/87731796/ad09b8f9-4bbf-45cd-820a-698ddcf834dd)
