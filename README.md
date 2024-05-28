@@ -6,27 +6,13 @@
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
-*[Insignias](#insignias)
+*[Insignias](#insignias) Desafio Conversor de monedas
 
-*[Índice](#índice)
+*[Descripción del proyecto](#descripción-del-proyecto) Este proyecto me ha ayududado a expandirmir mis conocimientos sobre la progrogacion orientada a objetos y el uso de API
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+*[Estado del proyecto](#Estado-del-proyecto) Finaliza pero con planes a futuro
 
-*[Estado del proyecto](#Estado-del-proyecto)
-
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-*[Acceso al proyecto](#acceso-proyecto)
-
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
+*[Tecnologías utilizadas](#tecnologías-utilizadas) Jav, Api
 
 
 
