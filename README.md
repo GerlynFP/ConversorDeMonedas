@@ -12,7 +12,8 @@
 
 *[Estado del proyecto](#Estado-del-proyecto) Finaliza pero con planes a futuro
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas) Jav, Api
+*[Tecnologías utilizadas](#tecnolog![Java-logo](https://github.com/GerlynFP/ConversorDeMonedas/assets/87731796/23bcb93f-60dc-462e-b8d4-4cd474a51c63)
+ías-utilizadas) Java, Api
 
 
 
