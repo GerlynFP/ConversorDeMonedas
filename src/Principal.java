@@ -27,7 +27,7 @@ public class Principal {
             System.out.println(menu);
             opcion = lectura.nextInt();
             lectura.nextLine();
-
+// hola
                 switch (opcion) {
                     case 1:
                         ConvertirMoneda.convertir("USD", "DOP", consulta, lectura);
