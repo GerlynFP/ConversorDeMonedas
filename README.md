@@ -2,19 +2,6 @@
 
 ![Una Portada](https://github.com/GerlynFP/ConversorDeMonedas/assets/87731796/ad09b8f9-4bbf-45cd-820a-698ddcf834dd)
 
-##Índice
-
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
-
-*[Insignias](#insignias) Desafio Conversor de monedas
-
-*[Descripción del proyecto](#descripción-del-proyecto) Este proyecto me ha ayududado a expandirmir mis conocimientos sobre la progrogacion orientada a objetos y el uso de API
-
-*[Estado del proyecto](#Estado-del-proyecto) Finaliza pero con planes a futuro
-
-*[Tecnologías utilizadas](#tecnolog![Java-logo](https://github.com/GerlynFP/ConversorDeMonedas/assets/87731796/23bcb93f-60dc-462e-b8d4-4cd474a51c63)
-ías-utilizadas) Java, Api
-
 
 
 ## :hammer:Funcionalidades del proyecto
